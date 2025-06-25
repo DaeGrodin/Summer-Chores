@@ -1,1 +1,1 @@
-This project showcases learning and integrating callback and promise functions.
+This project showcases learning about asynchronous javascript (non-blocking code) which allows for multiple tasks to run at the same time while other tasks may run in the background. I demonstrate using callbacks, promises, and async/await functions in this summer chores to-do list.  
