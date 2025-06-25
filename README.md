@@ -1,1 +1,1 @@
-This project showcases learning and integrating callback functions.
+This project showcases learning and integrating callback and promise functions.
